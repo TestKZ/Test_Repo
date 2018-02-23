@@ -8,4 +8,4 @@
 **Current Publish Status  :-**
 [![Build Status](http://34.217.65.13:8080/buildStatus/icon?job=Develop_Publish)](http://34.217.65.13:8080/job/Develop_Publish/)
 
-* **go check the Github Wiki for the project** https://github.com/Kyazoonga/Kz/wiki
+* **Go check the Github Wiki for the project:-** https://github.com/Kyazoonga/Kz/wiki
