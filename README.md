@@ -6,5 +6,6 @@
 [![Build Status](http://34.217.65.13:8080/buildStatus/icon?job=Develop_Test)](http://34.217.65.13:8080/job/Develop_Test/)
 
 **Current Publish Status  :-**
-[![Build Status](http://34.217.65.13:8080/buildStatus/icon?job=Develop_Publish)](http://34.217.65.13:8080/job/Develop_Publish/),
-go check the Github Wiki for the project
+[![Build Status](http://34.217.65.13:8080/buildStatus/icon?job=Develop_Publish)](http://34.217.65.13:8080/job/Develop_Publish/)
+
+* **go check the Github Wiki for the project**
